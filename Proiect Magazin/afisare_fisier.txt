@@ -1,0 +1,8 @@
+banane,5,5.60
+capsuni,4,5.00
+chipsuri,688,6.20
+lapte,12,4.60
+mere,12,4.50
+portocale,2,4.10
+suc de mere,34,6.10
+suc de portocale,123,7.80

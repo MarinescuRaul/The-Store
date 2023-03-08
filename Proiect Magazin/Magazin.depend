@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1649689928 source:d:\facultate\pp\proiect 1\magazin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<ctype.h>
+	<string.h>
+
+1649689946 
+
+1649688215 d:\facultate\pp\proiect 1\magazin\header.h
+
+1649689928 source:d:\facultate\pp\proiect 1\magazin\modificari.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1648222188 source:d:\facultate\pp\proiect 1\magazin\afis.c
+
+1649688974 source:d:\facultate\pp\proiect 1\magazin\meniu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1649689946 source:d:\facultate\pp\proiect 1\magazin\afisare.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1649430235 source:d:\facultate\pp\proiect 1\magazin\afisare_fisier.c
+
+1649430302 source:d:\facultate\pp\proiect 1\magazin\citire_fisier.c
+
+1649653946 source:/Users/txi/Desktop/Magazin/afisare.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1649692904 /Users/txi/Desktop/Magazin/header.h
+
+1649693741 source:/Users/txi/Desktop/Magazin/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<ctype.h>
+	<string.h>
+
+1649692915 source:/Users/txi/Desktop/Magazin/meniu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1649653928 source:/Users/txi/Desktop/Magazin/modificari.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1649772166 source:d:\facultate\pp\magazin\afisare.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1649692904 d:\facultate\pp\magazin\header.h
+
+1649770684 source:d:\facultate\pp\magazin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<ctype.h>
+	<string.h>
+
+1649698128 source:d:\facultate\pp\magazin\meniu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<string.h>
+
+1649698128 source:d:\facultate\pp\magazin\modificari.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
